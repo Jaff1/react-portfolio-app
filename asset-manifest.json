@@ -1,14 +1,13 @@
 {
-  "main.css": "/react-portfolio-app/static/css/main.7f9a67b9.chunk.css",
-  "main.js": "/react-portfolio-app/static/js/main.12bd7208.chunk.js",
-  "main.js.map": "/react-portfolio-app/static/js/main.12bd7208.chunk.js.map",
-  "static/js/1.fa92c112.chunk.js": "/react-portfolio-app/static/js/1.fa92c112.chunk.js",
-  "static/js/1.fa92c112.chunk.js.map": "/react-portfolio-app/static/js/1.fa92c112.chunk.js.map",
+  "main.css": "/react-portfolio-app/static/css/main.bc369383.chunk.css",
+  "main.js": "/react-portfolio-app/static/js/main.ee48ed40.chunk.js",
+  "main.js.map": "/react-portfolio-app/static/js/main.ee48ed40.chunk.js.map",
+  "static/js/1.c482be2d.chunk.js": "/react-portfolio-app/static/js/1.c482be2d.chunk.js",
+  "static/js/1.c482be2d.chunk.js.map": "/react-portfolio-app/static/js/1.c482be2d.chunk.js.map",
   "runtime~main.js": "/react-portfolio-app/static/js/runtime~main.709a8eb8.js",
   "runtime~main.js.map": "/react-portfolio-app/static/js/runtime~main.709a8eb8.js.map",
-  "static/media/logo.svg": "/react-portfolio-app/static/media/logo.5d5d9eef.svg",
-  "static/css/main.7f9a67b9.chunk.css.map": "/react-portfolio-app/static/css/main.7f9a67b9.chunk.css.map",
+  "static/css/main.bc369383.chunk.css.map": "/react-portfolio-app/static/css/main.bc369383.chunk.css.map",
   "index.html": "/react-portfolio-app/index.html",
-  "precache-manifest.a34312cadbd7d89ff66066e0bd02baa1.js": "/react-portfolio-app/precache-manifest.a34312cadbd7d89ff66066e0bd02baa1.js",
+  "precache-manifest.05b9734e8e20b303f75ac5fc58f094b1.js": "/react-portfolio-app/precache-manifest.05b9734e8e20b303f75ac5fc58f094b1.js",
   "service-worker.js": "/react-portfolio-app/service-worker.js"
 }
