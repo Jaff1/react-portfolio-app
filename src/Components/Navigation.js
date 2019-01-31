@@ -7,13 +7,17 @@ export default function Navigation() {
             <p>Navigation Thingy Start</p>
             <NavLink to='/'>Home </NavLink>
             <p>Navigation Border</p>
-            <NavLink to='/about '>About</NavLink>
+            <NavLink to='about'>About</NavLink>
             <p>Navigation Border</p>
-            <NavLink to='/blog '>Blog</NavLink>
-            <NavLink to='/portfolio '>Portfolio</NavLink>
-            <NavLink to='/technology '>Technology</NavLink>
-            <NavLink to='/intrests'>Intrests</NavLink>
-            <NavLink to='/contact '>Contact</NavLink>
+            <NavLink to='blog'>Blog</NavLink>
+            <p>Navigation Border</p>
+            <NavLink to='portfolio'>Portfolio</NavLink>
+            <p>Navigation Border</p>
+            <NavLink to='technology'>Technology</NavLink>
+            <p>Navigation Border</p>
+            <NavLink to='intrests'>Intrests</NavLink>
+            <p>Navigation Border</p>
+            <NavLink to='contact'>Contact</NavLink>
             <p>Navigation Thingy End</p>
         </div>
     );
