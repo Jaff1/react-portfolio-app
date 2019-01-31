@@ -1,9 +1,9 @@
 import React from 'react';
 
-export default function About() {
+export default function Blog() {
     return (
         <div>
-            <p>About Jaff Page</p>
+            <p>Jaff's Blog</p>
         </div>
     );
 };
