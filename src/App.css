@@ -18,6 +18,10 @@
   color: white;
 }
 
+.liItem {
+  margin-left: 20,
+}
+
 .App-link {
   color: #61dafb;
 }
