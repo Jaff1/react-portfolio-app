@@ -1,5 +1,5 @@
 import React, { Component } from 'react';
-import { BrowserRouter, Route, Switch } from 'react-router-dom';
+import { HashRouter, Route, Switch } from 'react-router-dom';
 
 import Home from './Components/Home'
 import About from './Components/About'
@@ -14,7 +14,7 @@ import Navigation from './Components/Navigation'
 class App extends Component {
   render() {
     return (
-      <BrowserRouter>
+      <HashRouter>
         <div>
           <Navigation />
           <Switch>
@@ -29,7 +29,7 @@ class App extends Component {
             <Route component={NotFound} />
           </Switch>
         </div>
-      </BrowserRouter>
+      </HashRouter>
     );
   }
 }
